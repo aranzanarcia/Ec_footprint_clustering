@@ -80,7 +80,6 @@ This project demonstrates the utility of unsupervised machine learning in enviro
 ![Captura de pantalla (97)](https://github.com/aranzanarcia/Ec_footprint_clustering/assets/165634773/f0027c92-cc82-404f-ad47-0eece884cea7)
 ![Captura de pantalla (99)](https://github.com/aranzanarcia/Ec_footprint_clustering/assets/165634773/0a0a5b53-ff89-48a6-aec2-9524f11e318e)
 ![Captura de pantalla (100)](https://github.com/aranzanarcia/Ec_footprint_clustering/assets/165634773/6092d71b-255d-4d92-a6fb-cbf753efe4e1)
-![Captura de pantalla (102)](https://github.com/aranzanarcia/Ec_footprint_clustering/assets/165634773/ec2a3a5a-3c04-467a-8371-08c0b11cf498)
 
 
 
